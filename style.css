@@ -1,26 +1,40 @@
-<style>
-p {
-      font-family: sans-serif;
-    }
-
+.title {
+  color: red;
+  font-family: Georgia, serif;
+  height: 100%;
+  margin: 25px;
+  text-align: center;
+  width: 100%;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom:25px;
+  padding-left: 25px;
+}
 .uppercase{
   text-transform: uppercase;
 }
-
-.h1{
-	color:teal;
+.cursive{
+  font-family: cursive;
 }
-
-.bold {
-  font-weight: bold;
+p {
+    background-color: pink;
+	text-align:justify;
+	font-size:20px
 }
-
-.red {
-  color: red;
+#signature {
+    color: blue;
+	font-family: Arial, bold;
+	text-align: center;
+	
 }
-
-
-.header {
-    background-color: yellow;
+.back {
+	background-color: teal;
+	display: block;
 }
-</style>
+img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
